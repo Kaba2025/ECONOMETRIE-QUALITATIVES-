@@ -119,5 +119,5 @@ INSEEDS – Institut Supérieur d’Études et de Recherche en Statistique
 ## 📬 Contact
 
 Pour toute question ou suggestion, merci de me contacter via GitHub ou à l’adresse suivante :  
-📧 [ton.email@example.com] *(à modifier)*
++2250576140830
 
